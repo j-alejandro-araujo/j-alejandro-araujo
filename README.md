@@ -1,8 +1,8 @@
 # Greetings! 👋
 
-<div style="display: flex; justify-content: center;">
+<p align="center">
   <img alt="amano" src="https://github.com/j-alejandro-araujo/j-alejandro-araujo/assets/91649194/935ff95c-ec83-4204-9dab-e5be4ead9b9f">
-</div>
+</p>
 
 ## 💬 About me
 As a first-generation Latinx immigrant, I've always believed in the power of hard work and determination. With a strong finance and accounting background, I decided to diversify my skills by mastering software engineering.
