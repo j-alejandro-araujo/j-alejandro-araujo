@@ -1,5 +1,7 @@
 # Greetings! 👋
 
+![sprire](https://github.com/j-alejandro-araujo/j-alejandro-araujo/assets/91649194/99f04fe7-b6f5-4b7f-815f-a2ae561aa891)
+
 ## 💬 About me
 As a first-generation Latinx immigrant, I've always believed in the power of hard work and determination. With a strong finance and accounting background, I decided to diversify my skills by mastering software engineering.
 
@@ -34,5 +36,5 @@ This journey lets me combine my passion for technology, art, and finance. I aim 
   <img src="https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=white" alt="github"/>
 </div>
 
-## Let's connect!
+## 🌐 Let's connect!
 <a href="https://www.linkedin.com/in/jesus-alejandro-araujo/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
