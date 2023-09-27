@@ -1,6 +1,6 @@
 # Greetings! 👋
 
-![calcifer-fire](https://github.com/j-alejandro-araujo/j-alejandro-araujo/assets/91649194/1a919a0c-51b7-4aaa-af74-1954c405546c)
+![amano](https://github.com/j-alejandro-araujo/j-alejandro-araujo/assets/91649194/935ff95c-ec83-4204-9dab-e5be4ead9b9f)
 
 ## 💬 About me
 As a first-generation Latinx immigrant, I've always believed in the power of hard work and determination. With a strong finance and accounting background, I decided to diversify my skills by mastering software engineering.
