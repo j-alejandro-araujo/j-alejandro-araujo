@@ -1,13 +1,13 @@
 # Greetings! 👋
 
 ## 💬 About me
-As a first-generation Latinx immigrant, I've always believed in the power of hard work and determination. With a strong background in finance and accounting, I decided to diversify my skill tree by mastering software engineering. 
+As a first-generation Latinx immigrant, I've always believed in the power of hard work and determination. With a strong finance and accounting background, I decided to diversify my skills by mastering software engineering.
 
-Why? Two reasons, the first is to empower my community. Growing up in an immigrant household, software engineering seemed like an impossible dream. I remember watching The Matrix as a kid and asking everyone I knew what coding was? The answer, "I don't know, computer stuff?". Unfortunately, there were no resources available for us to learn about technology. I'd like to change that by sharing my knowledge, experiences, and resources with my community and others who are interested, particularly those in marginalized communities. 
+Why? Two reasons: First, to empower my community. Growing up in an immigrant household, software engineering seemed like an impossible dream. I remember watching The Matrix as a kid and asking, 'What's coding?' Unfortunately, there were no accessible resources for us to learn about technology. I want to change that by sharing my knowledge, experiences, and resources, especially with marginalized communities.
 
-The second reason is pretty straightforward: I just love building things. I've always considered myself a naturally creative person. I thrive on exploring new ideas, finding alternative solutions, and problem-solving. Whether it's picking up a paintbrush to create art, designing bespoke financial reports, or coding a web application. I thrive on the process of bringing ideas to life, it fuels my drive to constantly learn and innovate.
+The second reason is simple: I love building things. I consider myself naturally creative, thriving on exploring ideas, finding solutions, and problem-solving. Whether it's painting, designing financial reports, or coding web applications, bringing ideas to life drives my constant learning and innovation.
 
-This journey has allowed me to combine my passion for technology, art, and finance. I aim to leverage my diverse experiences and technical skills to make a positive impact in my community. Let's connect and explore how we can collaborate to bring about positive change!
+This journey lets me combine my passion for technology, art, and finance. I aim to leverage my diverse experiences and technical skills to make a positive impact in my community. Let's connect and explore how we can collaborate for positive change!
 
 ## 🛠️ Technologies & Tools 
 
@@ -16,7 +16,6 @@ This journey has allowed me to combine my passion for technology, art, and finan
   <img src="https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white" alt="css3"/>
   <img src="https://img.shields.io/badge/-Tailwind-6440CE?logo=tailwindcss&logoColor=white" alt="tailwind"/>
   <img src="https://img.shields.io/badge/-JavaScript-444?logo=javascript&logoColor=yellow" alt="javascript"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" alt="typescript" />
   <img src="https://img.shields.io/badge/-React-3c4156?logo=react&logoColor=61DAFB" alt="react js"/>
   <img src="https://img.shields.io/badge/-EXPRESS-000?logo=express&logoColor=white" alt="express"/>
   <img src="https://img.shields.io/badge/-NODEJS-339933?logo=node.js&logoColor=white" alt="node.js"/>
@@ -34,17 +33,6 @@ This journey has allowed me to combine my passion for technology, art, and finan
   <img src="https://img.shields.io/badge/-GitHub-000?logo=github&logoColor=white" alt="github"/>
   <img src="https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=white" alt="github"/>
 </div>
-<!--
-**j-alejandro-araujo/j-alejandro-araujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Let's connect!
+<a href="https://www.linkedin.com/in/jesus-alejandro-araujo/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
