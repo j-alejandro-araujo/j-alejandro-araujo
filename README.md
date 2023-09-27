@@ -16,10 +16,10 @@ This journey lets me combine my passion for technology, art, and finance. I aim 
 ## 🕹 Technologies & Tools 
 
 <div class="tech" align=left>
+  <img src="https://img.shields.io/badge/-JavaScript-444?logo=javascript&logoColor=yellow" alt="javascript"/>
   <img src="https://img.shields.io/badge/-HTML5-red?logo=html5&logoColor=white" alt="html5"/>
   <img src="https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white" alt="css3"/>
   <img src="https://img.shields.io/badge/-Tailwind-6440CE?logo=tailwindcss&logoColor=white" alt="tailwind"/>
-  <img src="https://img.shields.io/badge/-JavaScript-444?logo=javascript&logoColor=yellow" alt="javascript"/>
   <img src="https://img.shields.io/badge/-React-3c4156?logo=react&logoColor=61DAFB" alt="react js"/>
   <img src="https://img.shields.io/badge/-EXPRESS-000?logo=express&logoColor=white" alt="express"/>
   <img src="https://img.shields.io/badge/-NODEJS-339933?logo=node.js&logoColor=white" alt="node.js"/>
