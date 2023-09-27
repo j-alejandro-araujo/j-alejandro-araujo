@@ -1,7 +1,7 @@
 # Greetings! 👋
 
 <p align="center">
-  <img alt="amano" src="https://github.com/j-alejandro-araujo/j-alejandro-araujo/assets/91649194/935ff95c-ec83-4204-9dab-e5be4ead9b9f">
+  <img alt="amano" src="https://github.com/j-alejandro-araujo/j-alejandro-araujo/assets/91649194/935ff95c-ec83-4204-9dab-e5be4ead9b9f" width="270" height="150">
 </p>
 
 ## 💬 About me
