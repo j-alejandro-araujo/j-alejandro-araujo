@@ -1,4 +1,4 @@
-# 👾👾👾 Going outside is highly overrated. 👾👾👾
+👾👾👾 <h1 align="center">Going outside is highly overrated.</h1> 👾👾👾
 
 <p align="center">
   <img alt="amano" src="https://github.com/j-alejandro-araujo/j-alejandro-araujo/assets/91649194/935ff95c-ec83-4204-9dab-e5be4ead9b9f">
