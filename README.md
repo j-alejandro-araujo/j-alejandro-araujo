@@ -1,10 +1,10 @@
-# Greetings! 👋
+# 👾👾👾 Going outside is highly overrated. 👾👾👾
 
 <p align="center">
-  <img alt="amano" src="https://github.com/j-alejandro-araujo/j-alejandro-araujo/assets/91649194/935ff95c-ec83-4204-9dab-e5be4ead9b9f" width="270" height="150">
+  <img alt="amano" src="https://github.com/j-alejandro-araujo/j-alejandro-araujo/assets/91649194/935ff95c-ec83-4204-9dab-e5be4ead9b9f">
 </p>
 
-## 💬 About me
+## 🇲🇽 About me
 As a first-generation Latinx immigrant, I've always believed in the power of hard work and determination. With a strong finance and accounting background, I decided to diversify my skills by mastering software engineering.
 
 Why? Two reasons: First, to empower my community. Growing up in an immigrant household, software engineering seemed like an impossible dream. I remember watching The Matrix as a kid and asking, 'What's coding?' Unfortunately, there were no accessible resources for us to learn about technology. I want to change that by sharing my knowledge, experiences, and resources, especially with marginalized communities.
@@ -13,7 +13,7 @@ The second reason is simple: I love building things. I consider myself naturally
 
 This journey lets me combine my passion for technology, art, and finance. I aim to leverage my diverse experiences and technical skills to make a positive impact in my community. Let's connect and explore how we can collaborate for positive change!
 
-## 🛠️ Technologies & Tools 
+## 🕹 Technologies & Tools 
 
 <div class="tech" align=left>
   <img src="https://img.shields.io/badge/-HTML5-red?logo=html5&logoColor=white" alt="html5"/>
