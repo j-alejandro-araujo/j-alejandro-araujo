@@ -38,5 +38,5 @@ This journey lets me combine my passion for technology, art, and finance. I aim 
   <img src="https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=white" alt="github"/>
 </div>
 
-## 🌐 Let's connect!
+## 🌐 Let's Connect!
 <a href="https://www.linkedin.com/in/jesus-alejandro-araujo/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
