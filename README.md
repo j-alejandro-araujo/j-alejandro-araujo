@@ -13,7 +13,7 @@ The second reason is simple: I love building things. I consider myself naturally
 
 This journey lets me combine my passion for technology, art, and finance. I aim to leverage my diverse experiences and technical skills to make a positive impact in my community. Let's connect and explore how we can collaborate for positive change!
 
-## 🕹 Technologies & Tools 
+## 🕹 Tools & Technologies 
 
 <div class="tech" align=left>
   <img src="https://img.shields.io/badge/-JavaScript-444?logo=javascript&logoColor=yellow" alt="javascript"/>
