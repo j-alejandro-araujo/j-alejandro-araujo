@@ -5,7 +5,7 @@
 </p>
 
 ## 🇲🇽 About Me
-As a first-generation Latinx immigrant, I've always believed in the power of hard work and determination. With a strong finance and accounting background, I decided to diversify my skills by mastering software engineering.
+As a first-generation Mexican-American, I've always believed in the power of hard work and determination. With a strong finance and accounting background, I decided to diversify my skills by mastering software engineering.
 
 Why? Two reasons: First, to empower my community. Growing up in an immigrant household, software engineering seemed like an impossible dream. I remember watching The Matrix as a kid and asking, 'What's coding?' Unfortunately, there were no accessible resources for us to learn about technology. I want to change that by sharing my knowledge, experiences, and resources, especially with marginalized communities.
 
